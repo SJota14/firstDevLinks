@@ -10,7 +10,7 @@ function toggleMode() {
   img.setAttribute("src", "imagens/gabigordo dread.png")
   
   } else{
-  //  html.classList.add('light')
+  //  html.classList.add('light') 
     img.setAttribute("src", "imagens/gabigordo cassino.png")
   }
 }

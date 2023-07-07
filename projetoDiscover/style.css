@@ -98,8 +98,6 @@ body *{
   -webkit-backdrop-filter: blur(4px);
 }
 
-
-
 ul{
   list-style-type: none;
 }
@@ -130,7 +128,6 @@ ul li a:hover{
   padding: 24px 0;
   font-size: 24px;
   gap: 16px;
-  
 }
 
 #redes a{
@@ -152,7 +149,6 @@ ion-icon{
 
 #footer{
   text-align: center;
-  
 }
 
 /*animation*/
